@@ -1,10 +1,9 @@
 usethis::use_git_config(
   user.name = "hajer mohammed",
   user.email = "mo1179388@email.ccbcmd.edu",
-)
-usethis::create_github_token()
-quarto create project book.lab
-quarto publish gh-pages
+##usethis::create_github_token()
+##quarto::create_project_book_lab
+##quarto:publish gh-pages
 ### Anatomical position lab sheets work solutions
 - Standing upright.
 - Facing forward.
