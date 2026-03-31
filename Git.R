@@ -267,4 +267,120 @@ a → prophase
 b → metaphase
 c → anaphase
 e → telophase
+### Tissues lab sheets work solutions
+4.3 Prelab Activity 4.1
+Types of Tissues
+Epithelial: Tissue that covers surfaces, lines cavities, and forms glands; functions in protection, absorption, and secretion.
+Connective: Tissue that supports, binds, and protects; characterized by cells in an extracellular matrix.
+Muscular: Tissue specialized for contraction to produce movement.
+Nervous: Tissue that transmits electrical signals for communication and control.
+Epithelial Tissues
+Simple squamous: Single layer of flat cells; allows diffusion/filtration (lungs, capillaries).
+Stratified squamous (keratinized/nonkeratinized): Multiple layers; protection from abrasion (skin = keratinized, mouth = nonkeratinized).
+Simple cuboidal: Single layer of cube-shaped cells; secretion and absorption (kidneys, glands).
+Stratified cuboidal/columnar (rare): Multiple layers; protection and secretion (large ducts).
+Simple columnar: Tall cells; absorption and secretion (digestive tract).
+Pseudostratified columnar epithelium: Appears multilayered but is one layer; often ciliated; moves mucus (respiratory tract).
+Transitional epithelium: Stretches and changes shape (urinary bladder).
+Epithelial Features
+Simple: One layer of cells.
+Stratified: Multiple layers of cells.
+Apical surface: Free surface exposed to lumen or outside.
+Basal surface: Attached to basement membrane.
+Basement membrane: Thin layer anchoring epithelium to connective tissue.
+Connective Tissue
+Cartilage: Flexible support tissue.
+Areolar connective tissue: Loose tissue that binds and cushions organs.
+Hyaline cartilage: Smooth support; found in joints, trachea.
+Adipose tissue: Fat storage, insulation.
+Fibrocartilage: Tough cartilage (intervertebral discs).
+Elastic cartilage: Flexible cartilage (ear).
+Regular dense connective tissue: Parallel collagen fibers (tendons, ligaments).
+Irregular dense connective tissue: Irregular fibers (dermis).
+Bone: Hard tissue for support and protection.
+Blood: Fluid connective tissue for transport.
+Connective Tissue Features
+Collagen fibers: Strong fibers providing tensile strength.
+Elastin fibers: Stretchable fibers allowing elasticity.
+Extracellular matrix: Non-cellular material surrounding cells.
+Cells: Living components of tissue.
+Fibroblasts: Produce fibers and matrix.
+Adipocytes: Fat-storing cells.
+Chondrocytes: Cartilage cells.
+Lacuna: Small space housing cells (cartilage/bone).
+4.6 Activity 4.1 (General Tissue Table Answers)
+(Since images vary, use these standard identifications)
+Simple squamous:
+  Location: alveoli, capillaries
+Function: diffusion
+Simple cuboidal:
+  Location: kidney tubules
+Function: secretion/absorption
+Simple columnar:
+  Location: intestines
+Function: absorption/secretion
+Pseudostratified ciliated columnar:
+  Location: trachea
+Function: moves mucus
+Stratified squamous:
+  Location: skin
+Function: protection
+Transitional:
+  Location: bladder
+Function: stretching
+4.9 Activity 4.2 Microscope Table
+Tissue	Magnification	Location
+Simple squamous	400x	alveoli, capillaries
+Simple cuboidal	400x	kidney tubules
+Simple columnar	400x	intestines
+Transitional	400x	bladder
+Stratified squamous	400x	skin, mouth
+4.13 / 4.14 Connective Tissue Table
+Tissue	Magnification	Location
+Areolar	400x	under epithelia
+Adipose	400x	under skin
+Dense regular	400x	tendons/ligaments
+Blood	400x	vessels
+Hyaline cartilage	400x	joints, trachea
+Fibrocartilage	400x	discs
+Elastic cartilage	400x	ear
+Bone	400x	skeleton
+4.15 Post Lab Activity 4.1
+1. How epithelium is classified
+By number of layers (simple vs stratified)
+By cell shape (squamous, cuboidal, columnar)
+2. Structure → Function examples
+Simple squamous: thin → diffusion
+Stratified squamous: thick → protection
+Columnar: tall → absorption/secretion
+Ciliated epithelium: moves mucus
+3. Major tissue types
+Epithelial: covering (skin)
+Connective: support (bone)
+Muscle: movement (skeletal muscle)
+Nervous: signaling (brain)
+4. Fill in blank
+The epithelial tissue contains an apical surface.
+4.18 Identification (General Guide)
+(Typical answers based on standard histology sets)
+Fig 4.10: Simple squamous – lungs
+Fig 4.11: Simple cuboidal – kidneys
+Fig 4.12: Simple columnar – intestines
+Fig 4.13: Stratified squamous – skin
+Fig 4.15: Transitional – bladder
+4.20 Crossword Answers
+Across
+simple squamous epithelium
+nervous
+glial cells
+stratified squamous epithelium
+simple columnar epithelium
+skeletal muscle
+Down
+dense regular connective tissue
+areolar connective tissue
+bone
+hyaline cartilage
+cardiac muscle
+smooth muscle
 
