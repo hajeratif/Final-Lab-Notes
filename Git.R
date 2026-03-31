@@ -384,3 +384,147 @@ hyaline cartilage
 cardiac muscle
 smooth muscle
 
+##Integumentary system lab sheet solutions
+5.4.1 Label the Layers (Figure 5.2)
+4: Epidermis
+5: Dermis
+6: Hypodermis (subcutaneous layer)
+5.4.2 Accessory Structures
+15: Hair follicle
+21: Sweat gland (eccrine/merocrine)
+14: Sebaceous gland
+20: Arrector pili muscle
+Table 5.1 Epidermal Layers (Superficial → Deep)
+Stratum corneum: Dead, keratinized cells; protection
+Stratum lucidum: Clear layer in thick skin only
+Stratum granulosum: Keratin production begins; cells dying
+Stratum spinosum: Provides strength; desmosomes
+Stratum basale: Deepest layer; mitosis occurs
+5.13 Thick vs Thin Skin
+Thick Skin
+Location: palms, soles
+Features: thick epidermis, has stratum lucidum, no hair
+Function: protection from friction
+Thin Skin
+Location: rest of body
+Features: thinner, has hair follicles, no stratum lucidum
+Function: flexibility, sensation
+5.14 Dermis Layers
+Papillary layer: Areolar connective tissue; contains dermal papillae
+Reticular layer: Dense irregular connective tissue; strength
+5.17 Dermal Structure Functions
+Dermal papillae: Increase surface area; contain capillaries
+Pore: Opening for sweat release
+Arrector pili muscle: Raises hair (goosebumps)
+Sebaceous gland: Produces oil (sebum)
+Merocrine (eccrine) sweat gland: Regulates temperature
+Apocrine sweat gland: Produces thicker sweat (odor)
+Free nerve ending: Pain/temperature detection
+Meissner’s corpuscle: Light touch
+Pacinian corpuscle: Deep pressure/vibration
+Keratinocyte: Produces keratin
+Melanocyte: Produces melanin (pigment)
+5.27 Post Lab Activity 5.1
+Layers of the dermis
+Papillary layer
+Reticular layer
+Three gland types
+Sebaceous glands: oil secretion
+Eccrine (merocrine) glands: sweat for cooling
+Apocrine glands: scent/stress-related secretion
+Three protective functions
+Physical barrier
+Prevents water loss
+Protection from pathogens/UV
+5.30 Matching (Table 5.4)
+1 → e
+2 → h
+3 → g
+4 → b
+5 → k
+6 → i
+7 → d
+8 → m
+9 → l
+10 → f
+11 → c
+12 → j
+13 → a
+Table 5.6 Answers
+a. squamous epithelial tissue
+b. stratum basale
+c. keratinocytes; keratin
+d. stratum basale
+e. Langerhans’ cells
+f. stratum lucidum
+g. stratum corneum
+h. papillary layer; reticular layer
+i. Pacinian corpuscles
+j. Sudoriferous
+k. Ceruminous
+l. Hair shaft
+m. root
+n. Hair bulb
+o. follicle
+5.31 Crossword Answers
+Across
+Reticular layer
+Stratum granulosum
+Epidermis
+Down
+Stratum corneum
+Papillary layer
+Hypodermis
+Stratum spinosum
+Stratum basale
+Stratum lucidum
+5.33 Case Study Answers
+1. Layers cut (superficial → deep)
+Epidermis
+Dermis
+Hypodermis
+2. Baby skin orange tint
+Caused by excess beta-carotene from vegetables
+Not harmful; not jaundice
+Skin pigmentation change only
+3. Temperature regulation
+Sweat production cools body
+Blood vessels dilate (vasodilation)
+Heat released from skin
+4. Melanoma risk in light skin
+Less melanin → less UV protection
+DNA damage more likely
+Higher cancer risk
+5.36 Fill in the Blanks
+Layers of dermis
+Papillary
+Reticular
+Three glands
+a) Sebaceous – oil
+b) Eccrine – cooling
+c) Apocrine – scent
+Three protective functions
+a) Barrier protection
+b) Prevents water loss
+c) UV/pathogen protection
+Four functions
+a) Protection
+b) Temperature regulation
+c) Sensation
+d) Vitamin D synthesis
+Type of epithelial tissue
+Stratified squamous epithelium (keratinized)
+Five layers of epidermis
+a) Stratum corneum
+b) Stratum lucidum (absent in thin skin)
+c) Stratum granulosum
+d) Stratum spinosum
+e) Stratum basale
+Four accessory structures
+a) Hair follicle – hair production
+b) Sebaceous gland – oil
+c) Sweat gland – cooling
+d) Arrector pili muscle – raises hair
+
+
+
