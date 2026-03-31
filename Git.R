@@ -5,7 +5,7 @@ usethis::use_git_config(
 usethis::create_github_token()
 quarto create project book.lab
 quarto publish gh-pages
-### Anatomical position work solutions
+### Anatomical position lab sheets work solutions
 - Standing upright.
 - Facing forward.
 - Feet flat and slightly apart.
@@ -101,7 +101,8 @@ quarto publish gh-pages
 - The diaphragm separates the thoracic and abdominal cavities.
 - “Banana split” lengthwise refers to the midsagittal plane.
 - The heart is within the mediastinum.
-- The naval/umbilicus is found in the umbilical region.[1]
+- The naval/umbilicus is found in the umbilical region.[1] 
+
 #Cell Biology Lab Worksheet Solutions**
  ## Prelab Activity 3.1: Basic Definitions
   
@@ -196,3 +197,74 @@ g. Integral protein[1]
 **S phase**: DNA replication (chromosomes duplicate).[1]
 **G2 phase**: Growth, preparation for mitosis.[1]
 **Membrane macromolecules**: Phospholipids, proteins, cholesterol, carbohydrates.[1]
+3.22 Post Lab Activity 3.1
+The smallest independent unit that is alive is the cell.
+The region in a human cell that houses the bulk of the genetic material is the nucleus.
+Most of the cellular machinery in human cells is in the cytoplasm.
+The basic structure of a cell’s membrane is a(n) phospholipid bilayer with associated proteins that can be either integral or peripheral.
+3.23 Post Lab Activity 3.2 (Multiple Choice)
+Because they are embedded within the membrane, ion channels are examples of:
+  integral proteins
+Which of the following structures could be found within the nucleolus?
+  ribosomes
+Cytoplasm is to cytosol as a swimming pool containing chlorine and flotation toys is to:
+  the water
+The rough ER has its name due to what associated structures?
+  ribosomes
+Which of the following is a function of the rough ER?
+  production of proteins
+Which organelle produces large quantities of ATP?
+  mitochondria
+Which phase is characterized by preparation for DNA synthesis?
+  G1
+3.24 / 3.25 Post Lab Activity 3.3 Matching (Table 3.2)
+Interphase → f
+G2 Phase → e
+Metaphase → i
+S phase → d
+Mitosis (M phase) → g
+Prophase → a
+G1 phase → c
+Cytokinesis → b
+Telophase → j
+Anaphase → h
+3.26 Post Lab Activity 3.4 Crosswords
+Across
+nucleus
+plasma membrane
+lysosomes
+peroxisomes
+Down
+nucleolus
+centrioles
+Golgi apparatus
+ribosome
+3.27 Post Lab Activity 3.5 Matching (Table 3.3)
+(Same answers as Table 3.2)
+Interphase → f
+G2 Phase → e
+Metaphase → i
+S phase → d
+Mitosis (M phase) → g
+Prophase → a
+G1 phase → c
+Cytokinesis → b
+Telophase → j
+Anaphase → h
+3.27.4 Cell Nucleus (Table 3.4)
+(Typical labeling — may vary slightly depending on your exact diagram)
+1a. nuclear envelope
+1b. nuclear pores
+2. chromatin
+3. nucleolus
+4a. rough endoplasmic reticulum
+4b. ribosomes
+5. cytoplasm
+6. plasma membrane
+3.27.5 Stages of Mitosis (Table 3.5)
+(Standard order of mitosis)
+a → prophase
+b → metaphase
+c → anaphase
+e → telophase
+
