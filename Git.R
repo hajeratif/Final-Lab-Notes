@@ -1,8 +1,9 @@
-##usethis::use_git_config(
-  ##user.name = "hajer mohammed",
-  ##user.email = "mo1179388@email.ccbcmd.edu",
+usethis::use_git_config(
+  user.name = "Hajer Mohammed",
+  user.email = "mo1179388@email.ccbcmd.edu",
 )
-##usethis::create_github_token()
+usethis::create_github_token()
+
 
 ## Anatomical position lab sheets work solutions
 # Anatomy and Cell Biology Review Sheet
