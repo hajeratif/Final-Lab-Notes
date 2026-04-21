@@ -294,7 +294,11 @@ a)  Structural Connective Tissue
 -   the locations for each tissue below
 
 ![](images/_page_89_Picture_4.jpeg)
-
+bone tissue 
+location skeletal system Skull
+Vertebral column
+Ribs and sternum
+Pelvic and pectoral girdles etc
 1.  **Fig. 4.10**
 
 ![](images/_page_89_Picture_7.jpeg)
@@ -308,6 +312,10 @@ a)  Structural Connective Tissue
 ![](images/_page_89_Picture_5.jpeg)
 
 4.  **Fig. 4.13**
+Areolar tissue
+location: Beneath epithelial tissues, forming the lamina propria of mucous membranes
+In the subcutaneous (hypodermis) layer beneath the skin
+Surrounding blood vessels and nervesn etc
 
 ![](images/_page_89_Picture_9.jpeg)
 
@@ -324,25 +332,81 @@ a)  Structural Connective Tissue
 Match the following tissue with its function or location.
 
 ![](images/_page_90_Picture_3.jpeg)
+## Tissue Classification Crossword — Solved
 
-### **Across**
+### Across
 
--   4 kidney glomeruli and alveoli of lungs (6,8,10)
--   5 Carry action potentials throughout the body (6)
--   7 Cells that nourish and support (5,4)
--   9 Protects underlying tissues from abrasion (10,8,10)
--   11 Function: secretion and absorption (6,8,10)
--   12 Attached to the bones, occasionally to the skin (8,6)
+**4.** Kidney glomeruli and alveoli of lungs *(6,8,10)*  
+**S I M P L E   S Q U A M O U S   E P I T H E L I U M**  
+**Answer:** Simple squamous epithelium  
 
-### **Down**
+---
 
--   1 Tendons and ligaments (5,7,10,6)
--   2 Functions as a binding tissue (5,10,6)
--   3 Mineral storage (4)
--   6 Covers the ends of long bones in joint cavities (7,9)
--   8 Contracts, propels blood in the circulation (7,6)
--   10 Mostly in the walls of hollow organs. (6,6)
+**5.** Carry action potentials throughout the body *(6)*  
+**N E R V E S**  
+**Answer:** Nerves  
 
+---
+
+**7.** Cells that nourish and support *(5,5)*  
+**G L I A L   C E L L S**  
+**Answer:** Glial cells  
+
+---
+
+**9.** Protects underlying tissues from abrasion *(10,8,10)*  
+**S T R A T I F I E D   S Q U A M O U S   E P I T H E L I U M**  
+**Answer:** Stratified squamous epithelium  
+
+---
+
+**11.** Function: secretion and absorption *(6,8,10)*  
+**S I M P L E   C U B O I D A L   E P I T H E L I U M**  
+**Answer:** Simple cuboidal epithelium  
+
+---
+
+**12.** Attached to the bones, occasionally to the skin *(8,6)*  
+**S K E L E T A L   M U S C L E**  
+**Answer:** Skeletal muscle  
+
+---
+
+### Down
+
+**1.** Tendons and ligaments *(5,7,10,6)*  
+**D E N S E   R E G U L A R   C O N N E C T I V E   T I S S U E**  
+**Answer:** Dense regular connective tissue  
+
+---
+
+**2.** Functions as a binding tissue *(5,10,6)*  
+**L O O S E   C O N N E C T I V E   T I S S U E**  
+**Answer:** Loose connective tissue  
+
+---
+
+**3.** Mineral storage *(4)*  
+**B O N E**  
+**Answer:** Bone  
+
+---
+
+**6.** Covers the ends of long bones in joint cavities *(7,9)*  
+**H Y A L I N E   C A R T I L A G E**  
+**Answer:** Hyaline cartilage  
+
+---
+
+**8.** Contracts, propels blood in the circulation *(7,6)*  
+**C A R D I A C   M U S C L E**  
+**Answer:** Cardiac muscle  
+
+---
+
+**10.** Mostly in the walls of hollow organs *(6,6)*  
+**S M O O T H   M U S C L E**  
+**Answer:** Smooth muscle  
 ## **Additional tissue review materials**
 
 ## **Areolar**

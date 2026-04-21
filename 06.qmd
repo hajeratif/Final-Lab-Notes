@@ -65,89 +65,117 @@
 
 ## **Prelab Activity 6.1**
 
-Definitions: Define the following key terms
+## Definitions: Key Terms
 
-**Skeleton**
+### Skeleton
 
--   Axial \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Appendicular skeleton \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- **Axial skeleton**  
+  The portion of the skeleton that forms the longitudinal axis of the body, including the skull, vertebral column, ribs, and sternum; it supports and protects vital organs.
 
-**General Structure of Long Bones** - See description in the textbook.
+- **Appendicular skeleton**  
+  The portion of the skeleton that includes the upper and lower limbs and the girdles (pectoral and pelvic) that attach them to the axial skeleton; it is primarily involved in movement.
 
--   Epiphysis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Diaphysis \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Compact bone \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Spongy bone \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Hyaline (articular) cartilage \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Periosteum \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Bone processes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Medullary cavity \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Yellow marrow \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Red marrow \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Epiphyseal plate \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
--   Endosteum (simple squamous) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
-**Bone Tissue**
+## General Structure of Long Bones
+
+- **Epiphysis**  
+  The expanded ends of a long bone, composed primarily of spongy bone; they articulate with adjacent bones to form joints.
+
+- **Diaphysis**  
+  The shaft of a long bone, composed mainly of compact bone; it provides strength and supports weight.
+
+- **Compact bone**  
+  Dense bone tissue that forms the outer layer of bones and provides strength and protection.
+
+- **Spongy bone**  
+  Porous bone tissue found primarily in the epiphyses; it contains trabeculae and houses red bone marrow.
+
+- **Hyaline (articular) cartilage**  
+  A smooth cartilage that covers the epiphyses of bones at joints; it reduces friction and absorbs shock.
+
+- **Periosteum**  
+  A tough, fibrous connective tissue membrane that covers the outer surface of bone (except at joints); it contains blood vessels and nerves and aids in bone growth and repair.
+
+- **Bone processes**  
+  Projections or outgrowths from bones that serve as attachment points for muscles, tendons, and ligaments.
+
+- **Medullary cavity**  
+  The hollow cavity within the diaphysis of a long bone that contains bone marrow.
+
+- **Yellow marrow**  
+  Bone marrow rich in adipose tissue; primarily functions as an energy reserve.
+
+- **Red marrow**  
+  Bone marrow that produces blood cells through hematopoiesis.
+
+- **Epiphyseal plate**  
+  A layer of hyaline cartilage located between the epiphysis and diaphysis in growing bones; responsible for longitudinal bone growth.
+
+- **Endosteum (simple squamous epithelium)**  
+  A thin membrane lining the medullary cavity and internal surfaces of bone; contains cells involved in bone growth and remodeling.
+
+---
+
+## Bone Tissue
 
 | Term              | Definition |
 |-------------------|------------|
-| Osteocytes        |            |
-| Matrix            |            |
-| Collagen fibers   |            |
-| Calcium phosphate |            |
-| Osteoblasts       |            |
-| Osteoclasts       |            |
+| Osteocytes        | Mature bone cells that maintain bone tissue |
+| Matrix            | The nonliving component of bone consisting of collagen fibers and mineral salts |
+| Collagen fibers   | Protein fibers that provide flexibility and tensile strength to bone |
+| Calcium phosphate | Mineral salts that give bone hardness and resistance to compression |
+| Osteoblasts       | Bone-forming cells that produce the bone matrix |
+| Osteoclasts       | Bone-resorbing cells that break down bone tissue |
 
-**Bone Classification:**
+---
+
+## Bone Classification
 
 | Term           | Definition |
 |----------------|------------|
-| Long honos     |            |
-| Long bones     |            |
-| Short bones    |            |
-| Flat bones     |            |
-| Irregular      |            |
-| Sesamoid bones |            |
-
+| Long bones     | Bones that are longer than they are wide; include a diaphysis and two epiphyses (e.g., femur) |
+| Short bones    | Cube-shaped bones that provide stability with limited motion (e.g., carpals) |
+| Flat bones     | Thin, flattened bones that protect organs and provide surface area for muscle attachment (e.g., skull, ribs) |
+| Irregular bones| Bones with complex shapes that do not fit other classifications (e.g., vertebrae) |
+| Sesamoid bones | Small, round bones embedded within tendons that reduce friction and modify pressure (e.g., patella) |
 ## **Prelab Activity 6.2**
 
 ## **Labeling**
+## Identification of the Human Skeleton
 
-![](images/_page_129_Figure_2.jpeg)
+images/myplt.png_page_129_Figure_2.jpeg
 
 **Figure 6.2** Numbered Human Skeleton.
 
-Identify the bones or regions on Figure 6.2. Indicate whether they belong to the appendicular or axial divisions.
-
-**Table 6.1. Identify the Bones or Regions**
+### Table 6.1 — Identify the Bones or Regions
 
 | Number | Name of bone or region | Division of skeletal system |
 |--------|------------------------|-----------------------------|
-| 1      |                        |                             |
-| 2      |                        |                             |
-| 3      |                        |                             |
-| 4      |                        |                             |
-| 5      |                        |                             |
-| 6      |                        |                             |
-| 7      |                        |                             |
-| 8      |                        |                             |
-| 9      |                        |                             |
-| 10     |                        |                             |
-| 11     |                        |                             |
-| 12     |                        |                             |
-| 13     |                        |                             |
-| 14     |                        |                             |
-| 15     |                        |                             |
-| 16     |                        |                             |
-| 17     |                        |                             |
-| 18     |                        |                             |
-| 19     |                        |                             |
-| 20     |                        |                             |
-| 21     |                        |                             |
-| 22     |                        |                             |
-| 23     |                        |                             |
-| 26     |                        |                             |
-
+| 1 | Skull | Axial |
+| 2 | Mandible | Axial |
+| 3 | Clavicle | Appendicular |
+| 4 | Scapula | Appendicular |
+| 5 | Sternum | Axial |
+| 6 | Ribs | Axial |
+| 7 | Vertebral column | Axial |
+| 8 | Pelvic girdle (coxal bones) | Appendicular |
+| 9 | Humerus | Appendicular |
+| 10 | Radius | Appendicular |
+| 11 | Ulna | Appendicular |
+| 12 | Carpals | Appendicular |
+| 13 | Metacarpals | Appendicular |
+| 14 | Phalanges (hand) | Appendicular |
+| 15 | Femur | Appendicular |
+| 16 | Patella | Appendicular |
+| 17 | Tibia | Appendicular |
+| 18 | Fibula | Appendicular |
+| 19 | Tarsals | Appendicular |
+| 20 | Metatarsals | Appendicular |
+| 21 | Phalanges (foot) | Appendicular |
+| 22 | Cervical vertebrae | Axial |
+| 23 | Thoracic vertebrae | Axial |
+| 26 | Lumbar vertebrae | Axial |
 ## **Lab Activities**
 
 Bones of the skeletal system.
@@ -172,16 +200,16 @@ Bones of the skeletal system.
 
 ## **Lab Activity 6.1**
 
-Classify the following bones based their location in the major division they are found (axial or appendicular):
+## Bone Classification by Skeletal Division
 
 | Bones              | Classification |
 |--------------------|----------------|
-| Sacrum             |                |
-| Humerus            |                |
-| Phalanges (digits) |                |
-| Cervical Vertebrae |                |
-| Cranium            |                |
-| Scapula            |                |
+| Sacrum             | Axial |
+| Humerus            | Appendicular |
+| Phalanges (digits) | Appendicular |
+| Cervical Vertebrae | Axial |
+| Cranium            | Axial |
+| Scapula            | Appendicular |
 
 ## **Lab Activities**
 
@@ -230,22 +258,20 @@ Review the Information in this table before moving on to the next activity.
 
 ![](images/_page_137_Picture_1.jpeg)
 
+## Bone Classification Based on Shape
+
 **Figure 6.7** Classification of Bones Based on Shape.
 
--   The bones of the skeletal system may be classified into five different categories. From the description of the features in table 6.3, find several bones on the articulated skeleton and label them according to their anatomical shape. Complete the table by providing at least two examples of each bone shape.
--   Next, obtain some tape and on a skeletal model or a set of bones from your disarticulated skeleton classify several bones according to their shapes.
--   Complete table 6.3.
-
-**Table 6.3 Bone Classifications Based on Shape**
+### Table 6.3 — Bone Classifications Based on Shape
 
 | Classification | Features | Example(s) |
 |-----------------|-------------------------------|--------------------------------------------------------------|
-| Long | Cylindrical shape; longer than wide |  |
-| Short | Cube shaped length, width, and thickness; relatively equal |  |
-| Flat | Thin and wide curved |  |
-| Irregular | Complex shape |  |
-| Sesamoid | Seed shaped small and round |  |
-
+| Long | Cylindrical shape; longer than wide | Femur, Humerus |
+| Short | Cube‑shaped; length, width, and thickness are relatively equal | Carpals, Tarsals |
+| Flat | Thin, flattened, often curved | Sternum, Scapula |
+| Irregular | Complex shape that does not fit other categories | Vertebrae, Sphenoid bone |
+| Sesamoid | Small, round bones embedded in tendons | Patella, Pisiform |
+``
 ## **Example of Flat Bones**
 
 ![](images/_page_138_Picture_3.jpeg)
@@ -351,66 +377,113 @@ Complete the following crossword puzzles.
 **Figure 6.17** Bone Features.
 
 ### **Across**
+## Bone Markings Crossword — Solved
 
--   **4** A bony bulb or structure on a narrow neck is called a(n) \_\_\_\_\_. (4)
+images/myplot.png_page_147_Picture_0.jpeg
 
--   **6** On a bone, a(n) \_\_\_\_\_ is a structure which protrudes from a bone. These are often named for what they protrude toward. (7)
+### Across
 
--   **7** On the femur, a(n) \_\_\_\_\_ refers to a large, blunt, unevenly shaped process. (10)
+**4.** A bony bulb or structure on a narrow neck is called a(n) **HEAD**. *(4)*
 
--   **8** A sharp, axe-like or needle-like projection on a bone is called a(n) \_\_\_\_\_. (5)
+**H E A D**
 
-### **Down**
+---
 
--   **1** On a bone, a(n) \_\_\_\_\_ is a deep groove or notch. (7)
+**6.** On a bone, a(n) **PROCESS** is a structure which protrudes from a bone. These are often named for what they protrude toward. *(7)*
 
--   **2** The flat, smooth face on a bone where it meets another bone is called a(n) \_\_\_\_\_. (5)
+**P R O C E S S**
 
--   **3** On a bone, a(n) \_\_\_\_\_ is a narrow ridge. A(n) \_\_\_\_\_ is a smaller version. (5,4)
+---
 
--   **5** A raised area on a condyle is called a(n) \_\_\_\_\_. (10)
+**7.** On the femur, a(n) **TROCHANTER** refers to a large, blunt, unevenly shaped process. *(10)*
+
+**T R O C H A N T E R**
+
+---
+
+**8.** A sharp, axe-like or needle-like projection on a bone is called a(n) **SPINE**. *(5)*
+
+**S P I N E**
+
+---
+
+### Down
+
+**1.** On a bone, a(n) **FISSURE** is a deep groove or notch. *(7)*
+
+**F I S S U R E**
+
+---
+
+**2.** The flat, smooth face on a bone where it meets another bone is called a(n) **FACET**. *(5)*
+
+**F A C E T**
+
+---
+
+**3.** On a bone, a(n) **CREST** is a narrow ridge. A(n) **LINE** is a smaller version. *(5,4)*
+
+**C R E S T**  
+**L I N E**
+
+---
+
+**5.** A raised area on a condyle is called a(n) **EPICONDYLE**. *(10)*
+
+**E P I C O N D Y L E**
+``
 
 ![](images/_page_147_Picture_0.jpeg)
 
 **Figure 6.18** Bone Structure.
 
 ### **Across**
+## Figure 6.18 — Bone Structure (Solved)
 
-**6** Compact bone consists of long, multi-layered cylinders called \_\_\_\_\_, surrounded by a central, blood-vessel and nerve-containing canal called the \_\_\_\_\_. (7,9,6)
+### Across
 
-**7** Blood vessels and nerves may move from one Haversian canal to another by detouring through a(n) \_\_\_\_\_. (11,5)
+**6.** Compact bone consists of long, multi-layered cylinders called **OSTEONS**, surrounded by a central, blood‑vessel and nerve‑containing canal called the **HAVERSIAN CANAL**. *(7,9,6)*
 
-### **Down**
+**Answer:** OSTEONS; HAVERSIAN CANAL
 
-**1** Mature bone cells are called \_\_\_\_\_ (10)
+---
 
-**2** Young, dividing cells usually have names that end in \_\_\_\_\_; mature cells usually have names that end in \_\_\_\_\_. (10)
+**7.** Blood vessels and nerves may move from one Haversian canal to another by detouring through a **PERFORATING CANAL**. *(11,5)*
 
-**3** Osteocytes in lacunae within an osteon maintain contact with one another by extending processes through \_\_\_\_\_. (10)
+**Answer:** PERFORATING CANAL
 
-**4** Cells that dissolve bone are called \_\_\_\_\_. (11)
+---
 
-**5** Bone-building cells are called \_\_\_\_\_. (10)
+### Down
 
-## **Post Lab Activity 6.2**
+**1.** Mature bone cells are called **OSTEOCYTES**. *(10)*
 
-## **Matching**
+**2.** Young, dividing cells usually have names that end in **‑BLASTS**; mature cells usually have names that end in **‑CYTES**. *(10)*
 
-**Table 6.4 Match the term(s) on the right with its corresponding statement.**
+**3.** Osteocytes in lacunae within an osteon maintain contact with one another by extending processes through **CANALICULI**. *(10)*
+
+**4.** Cells that dissolve bone are called **OSTEOCLASTS**. *(11)*
+
+**5.** Bone‑building cells are called **OSTEOBLASTS**. *(10)*
+
+---
+
+## Post Lab Activity 6.2 — Matching
+
+### Table 6.4 Match the term(s) with the corresponding statement (Completed)
 
 | Answer | Statement | Term(s) |
-|-----------|-----------------------------------|------------------------|
-|  | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ cartilage covers ends of long bones. | a\) axial |
-|  | Skeletal cartilage is enclosed by the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, | b\) hyaline cartilage |
-|  | The bones of the limbs, shoulders, and hips make up the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ skeleton. | c\) epiphyseal line |
-|  | Cancellous bone is found in the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ of long bones. | d\) Articular |
-|  | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ is found in the central (medullary) cavity of an adult's long bones and is composed of fat. | e\) perichondrium |
-|  | Articular cartilage is composed of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. | f\) diaphysis; |
-|  | The inner surface of the bone, where it meets the marrow, is covered by a delicate membrane called the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. | g\) Yellow marrow |
-|  | The tubular shaft that forms the axis of long bones is called the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. | h\) appendicular |
-|  | The bones of the skull, rib cage, and vertebral column make up the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ skeleton | i\) epiphyses |
-|  | The line that separates the diaphysis from the epiphysis in a long bone is called the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. | j\) endosteum |
-
+|---|---|---|
+| b | **Hyaline** cartilage covers ends of long bones. | b) hyaline cartilage |
+| e | Skeletal cartilage is enclosed by the **perichondrium**. | e) perichondrium |
+| h | The bones of the limbs, shoulders, and hips make up the **appendicular** skeleton. | h) appendicular |
+| i | Cancellous bone is found in the **epiphyses** of long bones. | i) epiphyses |
+| g | **Yellow marrow** is found in the central (medullary) cavity of an adult's long bones and is composed of fat. | g) Yellow marrow |
+| b | Articular cartilage is composed of **hyaline cartilage**. | b) hyaline cartilage |
+| j | The inner surface of the bone, where it meets the marrow, is covered by the **endosteum**. | j) endosteum |
+| f | The tubular shaft that forms the axis of long bones is the **diaphysis**. | f) diaphysis |
+| a | The bones of the skull, rib cage, and vertebral column make up the **axial** skeleton. | a) axial |
+| c | The line that separates the diaphysis from the epiphysis in a long bone is the **epiphyseal line**. | c) epiphyseal line |
 ## **Post Lab Activity 6.3**
 
 ## **Labeling**

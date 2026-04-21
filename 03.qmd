@@ -421,7 +421,10 @@ The basic structure of a cell's membrane is a phospholipid bilayer with associat
     b)  G1
     c)  G2
     d)  S
+ 
 
+##Answers 
+    
 b) integral proteins
 (Ion channels are embedded in the membrane, which defines integral proteins.)
 c) ribosomes
@@ -454,6 +457,8 @@ b) G1
 | 9\) \_\_\_\_\_\_\_\_\_\_ Telophase | i\) Occurs when the cell's chromosomes condense and move together, aligning in the center of the dividing cell. |
 | 10\) \_\_\_\_\_\_\_\_\_\_ Anaphase | j\) The final stage in cell division |
 
+##Answers
+
 Interphase → f) The summary of the G1, S, G2 phases
 G2 Phase → e) The cell grows a second time to reorganize its contents in preparation for mitosis
 Metaphase → i) Occurs when the cell's chromosomes condense and move together, aligning in the center of the dividing cell
@@ -472,27 +477,65 @@ Complete the crossword activity.
 ![](images/_page_65_Picture_2.jpeg)
 
 **Figure 3.24** The Cell.
+## Cell Biology Crossword — Solved
 
-### **Across**
+### Across
 
--   **3** a large organelle in eukaryotic organisms which protects the DNA (4,7)
+**3.** A large organelle in eukaryotic organisms which protects the DNA *(4,7)*  
 
--   **5** a network of lipids and proteins that forms the boundary between a cell's contents and the outside of the cell. (6,8)
+**N U C L E U S   M E M B R A N E**  
+**Answer:** Nucleus membrane  
 
--   **6** specialized vesicles within cells that digest large molecules using hydrolytic enzymes. (8)
+---
 
--   **7** membrane-bound organelles involved in lipid metabolism and the conversion of reactive oxygen species such as hydrogen peroxide into safer molecules like water and oxygen. (10)
+**5.** A network of lipids and proteins that forms the boundary between a cell's contents and the outside of the cell *(6,8)*  
 
-### **Down**
+**P L A S M A   M E M B R A N E**  
+**Answer:** Plasma membrane  
 
--   **1** the site in the nucleus where the several different parts of ribosomes are produced and exported (9)
+---
 
--   **2** small structures made of microtubules which exists as part of the centrosome (9)
+**6.** Specialized vesicles within cells that digest large molecules using hydrolytic enzymes *(8)*  
 
--   **4** an organelle in eukaryotic organisms that moves molecules from the endoplasmic reticulum to their destination. (5,9)
+**L Y S O S O M E S**  
+**Answer:** Lysosomes  
 
--   **8** an organelle in the cytoplasm of a living cell; the site of protein synthesis (8)
+---
 
+**7.** Membrane‑bound organelles involved in lipid metabolism and conversion of hydrogen peroxide *(10)*  
+
+**P E R O X I S O M E S**  
+**Answer:** Peroxisomes  
+
+---
+
+### Down
+
+**1.** The site in the nucleus where ribosome components are produced and exported *(9)*  
+
+**N U C L E O L U S**  
+**Answer:** Nucleolus  
+
+---
+
+**2.** Small structures made of microtubules that exist as part of the centrosome *(9)*  
+
+**C E N T R I O L E S**  
+**Answer:** Centrioles  
+
+---
+
+**4.** Organelle that moves molecules from the endoplasmic reticulum to their destination *(5,9)*  
+
+**G O L G I   A P P A R A T U S**  
+**Answer:** Golgi apparatus  
+
+---
+
+**8.** Organelle in the cytoplasm; site of protein synthesis *(8)*  
+
+**R I B O S O M E**  
+**Answer:** Ribosome  
 ## **Post Lab Activity 3.5 Matching**
 
 ### **Table 3.3 Complete the Matching Activity**
@@ -501,16 +544,16 @@ Note: Except for the letters, Table 3.3 is a duplicate of Table 3.2. I decided n
 
 | Name | Description |
 |--------------------------|---------------------------------------------|
-| 1\) \_\_\_\_\_\_\_\_\_\_ Interphase | a\) The first stage of mitosis |
-| 2\) \_\_\_\_\_\_\_\_\_\_ G2 Phase | b\) The division of the cytoplasm of a cell |
-| 3\) \_\_\_\_\_\_\_\_\_\_ Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
-| 4\) \_\_\_\_\_\_\_\_\_\_ S phase | d\) Occurs when the cell synthesizes a complete copy of the DNA. |
-| 5\) \_\_\_\_\_\_\_\_\_\_ Mitosis or M phase | e\) The cell grows a second time to reorganize its contents in preparation for mitosis. |
-| 6\) \_\_\_\_\_\_\_\_\_\_ Prophase | f\) The summary of the G1, S, G2 phases |
-| 7\) \_\_\_\_\_\_\_\_\_\_ G1 phase | g\) The process when the cell separates its DNA into two sets and divides its cytoplasm, forming two new cells. |
-| 8\) \_\_\_\_\_\_\_\_\_\_ Cytokinesis | h\) Observed when the chromosomes move toward opposite ends of the nuclear spindle |
-| 9\) \_\_\_\_\_\_\_\_\_\_ Telophase | i\) Occurs when the cell's chromosomes condense and move together, aligning in the center of the dividing cell. |
-| 10\) \_\_\_\_\_\_\_\_\_\_ Anaphase | j\) The final stage in cell division |
+| 1\) \__ Interphase | a\) The first stage of mitosis |
+| 2\) _\_ G2 Phase | b\) The division of the cytoplasm of a cell |
+| 3\) \_\\_\_ Metaphase | c\) The cell grows physically larger, making the molecular building blocks it will need in later steps. |
+| 4\) \_\\_ S phase | d\) Occurs when the cell synthesizes a complete copy of the DNA. |
+| 5\) \_\_\_ Mitosis or M phase | e\) The cell grows a second time to reorganize its contents in preparation for mitosis. |
+| 6\) \_\_\_ Prophase | f\) The summary of the G1, S, G2 phases |
+| 7\) \_\\_ G1 phase | g\) The process when the cell separates its DNA into two sets and divides its cytoplasm, forming two new cells. |
+| 8\) \_\\_ Cytokinesis | h\) Observed when the chromosomes move toward opposite ends of the nuclear spindle |
+| 9\) \_\\_ Telophase | i\) Occurs when the cell's chromosomes condense and move together, aligning in the center of the dividing cell. |
+| 10\) \__\_ Anaphase | j\) The final stage in cell division |
 
 ### **Labeling**
 
