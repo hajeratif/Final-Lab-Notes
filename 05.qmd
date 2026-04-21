@@ -47,46 +47,45 @@ Using your textbook define or identify the following terms.
 
 **Epidermal Layer**
 
-| Term                          | Definition |
-|-------------------------------|------------|
-| Epidermis                     |            |
-| Stratum corneum               |            |
-| Stratum lucidum               |            |
-| Stratum granulosum            |            |
-| Stratum spinosum              |            |
-| Stratum basale (germinitivum) |            |
-| Dermal Layer                  |            |
+|| Term                              | Definition                                                                                                                             ------------------------------------------------------ |
+| **Epidermis**                     | The outermost layer of the skin that provides a protective barrier against the environment.                                                         |
+| **Stratum corneum**               | The outermost layer of the epidermis made of dead, flattened keratinized cells that prevent water loss and protect against damage.                  |
+| **Stratum lucidum**               | A thin, clear layer found only in thick skin (like palms and soles) that adds extra protection.                                                     |
+| **Stratum granulosum**            | A layer where cells begin to die and form keratin, helping create the skin’s waterproof barrier.                                                    |
+| **Stratum spinosum**              | A layer of living cells that provides strength and flexibility to the skin through keratin production.                                              |
+| **Stratum basale (germinativum)** | The deepest epidermal layer where new skin cells are produced through cell division; contains melanocytes.                                          |
+| **Dermal layer (Dermis)**         | The thick layer beneath the epidermis containing blood vessels, nerves, hair follicles, and connective tissue that supports and nourishes the skin. |
 
 **Dermal Layer**
 
-| Term            | Definition |
-|-----------------|------------|
-| Dermis          |            |
-| Papillary layer |            |
-| Reticular layer |            |
-
-| Term                            | Definition |
-|---------------------------------|------------|
-| Subcutaneous Layer (Hypodermis) |            |
+| Term                | Definition                                                      
+| ------------------- |
+| **Dermis**          | The middle layer of the skin beneath the epidermis that contains connective tissue, blood vessels, nerves, hair follicles, and glands; it provides strength, nourishment, and support to the skin. |
+| **Papillary layer** | The upper portion of the dermis made of loose connective tissue; contains capillaries and sensory receptors and forms finger-like projections that interlock with the epidermis.                   |
+| **Reticular layer** | The deeper, thicker portion of the dermis made of dense connective tissue; provides strength and elasticity due to collagen and elastin fibers.                                                    |---------------------------------|------------|
+| Subcutaneous Layer (Hypodermis) |
+| Term                                | Definition
+| **Subcutaneous Layer (Hypodermis)** | The deepest layer beneath the dermis made mainly of fat and loose connective tissue; it insulates the body, stores energy, cushions organs, and anchors the skin to underlying structures. |
+|
 
 **Integumentary Structures**
 
-| Term                            | Definition |
-|---------------------------------|------------|
-| Dermal papillae                 |            |
-| Hair shaft                      |            |
-| Hair root                       |            |
-| Hair follicle                   |            |
-| Pore                            |            |
-| Arrector pili muscle            |            |
-| Sebaceous gland                 |            |
-| Merocrine (eccrine) sweat gland |            |
-| Apocrine sweat gland            |            |
-| Free nerve ending               |            |
-| Meissner's (tactile) corpuscle  |            |
-| Pacinian (pressure) corpuscle   |            |
-| Keratinocyte                    |            |
-| Melanocyte                      |            |
+| | Term                                | Definition                                                                                                                                                      |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dermal papillae**                 | Small, finger-like projections of the dermis that extend into the epidermis, increasing surface area for nutrient exchange and helping form fingerprints.       |
+| **Hair shaft**                      | The visible portion of hair that extends above the surface of the skin, composed of dead, keratinized cells.                                                    |
+| **Hair root**                       | The portion of hair located beneath the skin’s surface within the hair follicle.                                                                                |
+| **Hair follicle**                   | A tubular structure in the dermis that surrounds and anchors the hair root; it is responsible for hair growth.                                                  |
+| **Pore**                            | The opening of a sweat gland or hair follicle on the skin surface.                                                                                              |
+| **Arrector pili muscle**            | A tiny smooth muscle attached to hair follicles that contracts to raise hair (“goosebumps”).                                                                    |
+| **Sebaceous gland**                 | Oil-producing gland that secretes sebum to lubricate and waterproof skin and hair.                                                                              |
+| **Merocrine (eccrine) sweat gland** | A sweat gland that produces watery sweat for thermoregulation and releases it directly onto the skin surface.                                                   |
+| **Apocrine sweat gland**            | A sweat gland located mainly in the armpits and groin that produces thicker sweat activated by stress or hormones; becomes odorous when bacteria break it down. |
+| **Free nerve ending**               | Simple sensory receptors that detect pain, temperature, and light touch in the skin.                                                                            |
+| **Meissner's (tactile) corpuscle**  | Sensory receptors in the dermis that detect light touch and fine texture.                                                                                       |
+| **Pacinian (pressure) corpuscle**   | Deep pressure receptors in the skin that detect vibration and heavy pressure.                                                                                   |
+| **Keratinocyte**                    | The most common skin cell in the epidermis that produces keratin for protection and waterproofing.                                                              |
+| **Melanocyte**                      | Pigment-producing cell in the epidermis that produces melanin, which gives skin color and protects against UV radiation.                                        |
 
 ## **Prelab Activity 5.2**
 
